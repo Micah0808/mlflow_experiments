@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/8ac6cef42d8e4c68b6930ede6c31ffb8/artifacts
+end_time: 1687336027594
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 8ac6cef42d8e4c68b6930ede6c31ffb8
+run_name: gifted-chimp-529
+run_uuid: 8ac6cef42d8e4c68b6930ede6c31ffb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336023074
+status: 3
+tags: []
+user_id: micahcearns

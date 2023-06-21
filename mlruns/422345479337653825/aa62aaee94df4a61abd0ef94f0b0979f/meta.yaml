@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/aa62aaee94df4a61abd0ef94f0b0979f/artifacts
+end_time: 1687338026248
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: aa62aaee94df4a61abd0ef94f0b0979f
+run_name: redolent-tern-711
+run_uuid: aa62aaee94df4a61abd0ef94f0b0979f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338022261
+status: 3
+tags: []
+user_id: micahcearns

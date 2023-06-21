@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/99e8ed67f03245bbb801ce67cbed3bb7/artifacts
+end_time: 1687336155687
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 99e8ed67f03245bbb801ce67cbed3bb7
+run_name: polite-hare-127
+run_uuid: 99e8ed67f03245bbb801ce67cbed3bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336151027
+status: 3
+tags: []
+user_id: micahcearns

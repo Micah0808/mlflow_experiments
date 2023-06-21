@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/290f70c9b1014fa28a790f7064cb0ebb/artifacts
+end_time: 1687336188383
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 290f70c9b1014fa28a790f7064cb0ebb
+run_name: clumsy-vole-640
+run_uuid: 290f70c9b1014fa28a790f7064cb0ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336183871
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/4347d7901a384deba948d97482530c4a/artifacts
+end_time: 1687337061134
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 4347d7901a384deba948d97482530c4a
+run_name: abundant-jay-303
+run_uuid: 4347d7901a384deba948d97482530c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337057058
+status: 3
+tags: []
+user_id: micahcearns

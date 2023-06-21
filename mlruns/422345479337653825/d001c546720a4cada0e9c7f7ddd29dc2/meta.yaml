@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/d001c546720a4cada0e9c7f7ddd29dc2/artifacts
+end_time: 1687337032641
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: d001c546720a4cada0e9c7f7ddd29dc2
+run_name: sedate-fox-679
+run_uuid: d001c546720a4cada0e9c7f7ddd29dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337028706
+status: 3
+tags: []
+user_id: micahcearns

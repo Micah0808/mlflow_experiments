@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/0cde835793f441d7832a6d43d330f9f6/artifacts
+end_time: 1687338034847
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 0cde835793f441d7832a6d43d330f9f6
+run_name: rumbling-kit-650
+run_uuid: 0cde835793f441d7832a6d43d330f9f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338030653
+status: 3
+tags: []
+user_id: micahcearns

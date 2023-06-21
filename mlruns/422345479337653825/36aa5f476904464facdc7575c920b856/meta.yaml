@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/36aa5f476904464facdc7575c920b856/artifacts
+end_time: 1687336205870
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 36aa5f476904464facdc7575c920b856
+run_name: efficient-quail-951
+run_uuid: 36aa5f476904464facdc7575c920b856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336201419
+status: 3
+tags: []
+user_id: micahcearns

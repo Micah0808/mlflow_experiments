@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/d6a96691f2c44b96acd71afe0aa29594/artifacts
+end_time: 1687337160816
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: d6a96691f2c44b96acd71afe0aa29594
+run_name: colorful-shrimp-264
+run_uuid: d6a96691f2c44b96acd71afe0aa29594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337156699
+status: 3
+tags: []
+user_id: micahcearns

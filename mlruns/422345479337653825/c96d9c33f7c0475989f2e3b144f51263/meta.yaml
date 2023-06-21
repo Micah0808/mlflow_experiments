@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/c96d9c33f7c0475989f2e3b144f51263/artifacts
+end_time: 1687336992509
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: c96d9c33f7c0475989f2e3b144f51263
+run_name: suave-snipe-250
+run_uuid: c96d9c33f7c0475989f2e3b144f51263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336988457
+status: 3
+tags: []
+user_id: micahcearns

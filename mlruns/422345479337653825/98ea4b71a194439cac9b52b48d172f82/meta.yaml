@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/98ea4b71a194439cac9b52b48d172f82/artifacts
+end_time: 1687338038951
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 98ea4b71a194439cac9b52b48d172f82
+run_name: blushing-toad-56
+run_uuid: 98ea4b71a194439cac9b52b48d172f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338034883
+status: 3
+tags: []
+user_id: micahcearns

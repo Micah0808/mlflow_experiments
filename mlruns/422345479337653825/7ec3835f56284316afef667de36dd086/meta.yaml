@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/7ec3835f56284316afef667de36dd086/artifacts
+end_time: 1687337103652
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 7ec3835f56284316afef667de36dd086
+run_name: magnificent-auk-764
+run_uuid: 7ec3835f56284316afef667de36dd086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337098905
+status: 3
+tags: []
+user_id: micahcearns

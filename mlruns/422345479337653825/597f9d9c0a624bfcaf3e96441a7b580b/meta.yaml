@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/597f9d9c0a624bfcaf3e96441a7b580b/artifacts
+end_time: 1687337991956
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 597f9d9c0a624bfcaf3e96441a7b580b
+run_name: adventurous-rook-493
+run_uuid: 597f9d9c0a624bfcaf3e96441a7b580b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337987945
+status: 3
+tags: []
+user_id: micahcearns

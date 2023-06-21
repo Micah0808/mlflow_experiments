@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/27aaa941826344d1b5bddfc2d2a7b10e/artifacts
+end_time: 1687337172222
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 27aaa941826344d1b5bddfc2d2a7b10e
+run_name: stylish-bat-48
+run_uuid: 27aaa941826344d1b5bddfc2d2a7b10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337168595
+status: 3
+tags: []
+user_id: micahcearns

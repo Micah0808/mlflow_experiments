@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/dd4aa306032149cf9d387c575f2dd3a9/artifacts
+end_time: 1687337156655
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: dd4aa306032149cf9d387c575f2dd3a9
+run_name: glamorous-toad-512
+run_uuid: dd4aa306032149cf9d387c575f2dd3a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337152583
+status: 3
+tags: []
+user_id: micahcearns

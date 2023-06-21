@@ -1,0 +1,9 @@
+digest: 33cba7c9
+name: dataset
+profile: '{"features_shape": [384, 30], "features_size": 11520, "features_nbytes":
+  46080}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 30]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "micahcearns", "mlflow.source.name": "/Users/micahcearns/Desktop/IT_Projects/mlflow_project/tuning_and_deployment.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

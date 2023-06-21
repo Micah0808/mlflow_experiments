@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/b0ac6efec72c491e8f4136b26eee098d/artifacts
+end_time: 1687337040677
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: b0ac6efec72c491e8f4136b26eee098d
+run_name: kindly-moose-525
+run_uuid: b0ac6efec72c491e8f4136b26eee098d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337036556
+status: 3
+tags: []
+user_id: micahcearns

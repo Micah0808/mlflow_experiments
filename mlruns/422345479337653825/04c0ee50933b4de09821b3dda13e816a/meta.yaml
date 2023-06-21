@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/04c0ee50933b4de09821b3dda13e816a/artifacts
+end_time: 1687336088713
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 04c0ee50933b4de09821b3dda13e816a
+run_name: capable-snipe-96
+run_uuid: 04c0ee50933b4de09821b3dda13e816a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336084626
+status: 3
+tags: []
+user_id: micahcearns

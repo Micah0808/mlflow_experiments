@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/bcd62fc3f32047eaa44162b658ff9cfc/artifacts
+end_time: 1687336201387
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: bcd62fc3f32047eaa44162b658ff9cfc
+run_name: languid-loon-953
+run_uuid: bcd62fc3f32047eaa44162b658ff9cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336196876
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/7aff13e0a2bd4f949a9491d4586bac71/artifacts
+end_time: 1687336178693
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 7aff13e0a2bd4f949a9491d4586bac71
+run_name: luxuriant-shrimp-373
+run_uuid: 7aff13e0a2bd4f949a9491d4586bac71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336174212
+status: 3
+tags: []
+user_id: micahcearns

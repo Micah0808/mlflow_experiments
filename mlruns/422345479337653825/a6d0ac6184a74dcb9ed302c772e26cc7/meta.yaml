@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/a6d0ac6184a74dcb9ed302c772e26cc7/artifacts
+end_time: 1687336009124
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: a6d0ac6184a74dcb9ed302c772e26cc7
+run_name: abundant-shrimp-248
+run_uuid: a6d0ac6184a74dcb9ed302c772e26cc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336003774
+status: 3
+tags: []
+user_id: micahcearns

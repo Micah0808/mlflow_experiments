@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/8bba440e3c99483fb1e59898e3a715c9/artifacts
+end_time: 1687251054653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bba440e3c99483fb1e59898e3a715c9
+run_name: righteous-mare-627
+run_uuid: 8bba440e3c99483fb1e59898e3a715c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687251054626
+status: 3
+tags: []
+user_id: micahcearns

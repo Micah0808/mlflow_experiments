@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/29f2f76a967b40a7a913c020cba8b324/artifacts
+end_time: 1687336174172
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 29f2f76a967b40a7a913c020cba8b324
+run_name: fortunate-turtle-335
+run_uuid: 29f2f76a967b40a7a913c020cba8b324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336169902
+status: 3
+tags: []
+user_id: micahcearns

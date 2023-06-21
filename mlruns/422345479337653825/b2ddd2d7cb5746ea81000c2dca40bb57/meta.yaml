@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/b2ddd2d7cb5746ea81000c2dca40bb57/artifacts
+end_time: 1687337090528
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: b2ddd2d7cb5746ea81000c2dca40bb57
+run_name: delicate-gnat-374
+run_uuid: b2ddd2d7cb5746ea81000c2dca40bb57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337086408
+status: 3
+tags: []
+user_id: micahcearns

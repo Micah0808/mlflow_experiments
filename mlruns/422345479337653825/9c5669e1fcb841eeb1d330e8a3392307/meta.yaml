@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/9c5669e1fcb841eeb1d330e8a3392307/artifacts
+end_time: 1687336980174
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 9c5669e1fcb841eeb1d330e8a3392307
+run_name: bald-jay-0
+run_uuid: 9c5669e1fcb841eeb1d330e8a3392307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336976227
+status: 3
+tags: []
+user_id: micahcearns

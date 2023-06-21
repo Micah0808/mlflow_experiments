@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/db29237b26264e90a519d3a13ee631e5/artifacts
+end_time: 1687338022226
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: db29237b26264e90a519d3a13ee631e5
+run_name: rebellious-mouse-601
+run_uuid: db29237b26264e90a519d3a13ee631e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338018014
+status: 3
+tags: []
+user_id: micahcearns

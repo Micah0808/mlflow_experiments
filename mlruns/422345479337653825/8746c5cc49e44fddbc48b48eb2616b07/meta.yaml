@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/8746c5cc49e44fddbc48b48eb2616b07/artifacts
+end_time: 1687336150995
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 8746c5cc49e44fddbc48b48eb2616b07
+run_name: honorable-fawn-571
+run_uuid: 8746c5cc49e44fddbc48b48eb2616b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336147101
+status: 3
+tags: []
+user_id: micahcearns

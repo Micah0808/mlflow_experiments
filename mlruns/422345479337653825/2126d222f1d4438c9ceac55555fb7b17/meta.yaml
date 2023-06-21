@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/2126d222f1d4438c9ceac55555fb7b17/artifacts
+end_time: 1687336972238
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 2126d222f1d4438c9ceac55555fb7b17
+run_name: aged-yak-341
+run_uuid: 2126d222f1d4438c9ceac55555fb7b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336968118
+status: 3
+tags: []
+user_id: micahcearns

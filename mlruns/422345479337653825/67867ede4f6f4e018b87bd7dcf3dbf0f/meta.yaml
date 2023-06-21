@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/67867ede4f6f4e018b87bd7dcf3dbf0f/artifacts
+end_time: 1687337065233
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 67867ede4f6f4e018b87bd7dcf3dbf0f
+run_name: rogue-wolf-926
+run_uuid: 67867ede4f6f4e018b87bd7dcf3dbf0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337061164
+status: 3
+tags: []
+user_id: micahcearns

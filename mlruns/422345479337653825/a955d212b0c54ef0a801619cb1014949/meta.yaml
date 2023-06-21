@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/a955d212b0c54ef0a801619cb1014949/artifacts
+end_time: 1687336138862
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: a955d212b0c54ef0a801619cb1014949
+run_name: sassy-ray-220
+run_uuid: a955d212b0c54ef0a801619cb1014949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336134126
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/9fbb7bf65afd4b479d811e3a52345019/artifacts
+end_time: 1687337014845
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 9fbb7bf65afd4b479d811e3a52345019
+run_name: smiling-mole-653
+run_uuid: 9fbb7bf65afd4b479d811e3a52345019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337010680
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/36d133af565a4c2b87d66f49086f02f5/artifacts
+end_time: 1687336984294
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 36d133af565a4c2b87d66f49086f02f5
+run_name: dashing-moose-408
+run_uuid: 36d133af565a4c2b87d66f49086f02f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336980195
+status: 3
+tags: []
+user_id: micahcearns

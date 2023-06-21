@@ -1,0 +1,6 @@
+artifact_location: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825
+creation_time: 1687335978612
+experiment_id: '422345479337653825'
+last_update_time: 1687335978612
+lifecycle_stage: active
+name: xgboost-hyperopt

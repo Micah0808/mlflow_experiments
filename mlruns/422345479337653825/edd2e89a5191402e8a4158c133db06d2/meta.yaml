@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/edd2e89a5191402e8a4158c133db06d2/artifacts
+end_time: 1687336165140
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: edd2e89a5191402e8a4158c133db06d2
+run_name: melodic-goat-658
+run_uuid: edd2e89a5191402e8a4158c133db06d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336160324
+status: 3
+tags: []
+user_id: micahcearns

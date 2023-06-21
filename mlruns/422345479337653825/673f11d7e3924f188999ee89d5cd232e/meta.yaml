@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/673f11d7e3924f188999ee89d5cd232e/artifacts
+end_time: 1687336061362
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 673f11d7e3924f188999ee89d5cd232e
+run_name: burly-croc-596
+run_uuid: 673f11d7e3924f188999ee89d5cd232e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336056845
+status: 3
+tags: []
+user_id: micahcearns

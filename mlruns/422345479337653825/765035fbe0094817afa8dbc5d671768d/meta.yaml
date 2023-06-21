@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/765035fbe0094817afa8dbc5d671768d/artifacts
+end_time: 1687336183685
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 765035fbe0094817afa8dbc5d671768d
+run_name: carefree-robin-81
+run_uuid: 765035fbe0094817afa8dbc5d671768d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336178728
+status: 3
+tags: []
+user_id: micahcearns

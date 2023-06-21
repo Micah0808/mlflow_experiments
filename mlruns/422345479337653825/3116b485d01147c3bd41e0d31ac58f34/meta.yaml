@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/3116b485d01147c3bd41e0d31ac58f34/artifacts
+end_time: 1687337098868
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 3116b485d01147c3bd41e0d31ac58f34
+run_name: big-calf-528
+run_uuid: 3116b485d01147c3bd41e0d31ac58f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337094939
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,3 @@
+{
+  "RandomForestRegressor_score_X_train": "RandomForestRegressor.score(X=X_train, y=y_train)"
+}

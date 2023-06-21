@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/7842d2e4ada74af480ac81f11891a959/artifacts
+end_time: 1687336125503
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 7842d2e4ada74af480ac81f11891a959
+run_name: unique-quail-583
+run_uuid: 7842d2e4ada74af480ac81f11891a959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336121470
+status: 3
+tags: []
+user_id: micahcearns

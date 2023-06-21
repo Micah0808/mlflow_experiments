@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/a2bc47df832b40b0afbb7d579be3c862/artifacts
+end_time: 1687337140759
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: a2bc47df832b40b0afbb7d579be3c862
+run_name: grandiose-perch-806
+run_uuid: a2bc47df832b40b0afbb7d579be3c862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337136692
+status: 3
+tags: []
+user_id: micahcearns

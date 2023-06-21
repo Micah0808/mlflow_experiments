@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/d88084ea6d8a4efabe7d62c5b4494c95/artifacts
+end_time: 1687337044572
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: d88084ea6d8a4efabe7d62c5b4494c95
+run_name: classy-chimp-589
+run_uuid: d88084ea6d8a4efabe7d62c5b4494c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337040697
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/7d9efb6920384c84a63cac03113fe4aa/artifacts
+end_time: 1687338030613
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 7d9efb6920384c84a63cac03113fe4aa
+run_name: languid-perch-165
+run_uuid: 7d9efb6920384c84a63cac03113fe4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338026291
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/4411c7e15ac1429a97f23fb4ce46d3da/artifacts
+end_time: 1687337966482
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 4411c7e15ac1429a97f23fb4ce46d3da
+run_name: worried-pig-950
+run_uuid: 4411c7e15ac1429a97f23fb4ce46d3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337962337
+status: 3
+tags: []
+user_id: micahcearns

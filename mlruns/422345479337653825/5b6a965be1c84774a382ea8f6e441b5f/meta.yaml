@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/5b6a965be1c84774a382ea8f6e441b5f/artifacts
+end_time: 1687337057027
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 5b6a965be1c84774a382ea8f6e441b5f
+run_name: resilient-ray-604
+run_uuid: 5b6a965be1c84774a382ea8f6e441b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337053068
+status: 3
+tags: []
+user_id: micahcearns

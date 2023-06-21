@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/07afe4ca93df46b780dbe7b320fa1169/artifacts
+end_time: 1687336084594
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 07afe4ca93df46b780dbe7b320fa1169
+run_name: glamorous-colt-422
+run_uuid: 07afe4ca93df46b780dbe7b320fa1169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336080294
+status: 3
+tags: []
+user_id: micahcearns

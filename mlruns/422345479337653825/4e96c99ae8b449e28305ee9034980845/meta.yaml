@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/4e96c99ae8b449e28305ee9034980845/artifacts
+end_time: 1687337979701
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 4e96c99ae8b449e28305ee9034980845
+run_name: selective-bass-226
+run_uuid: 4e96c99ae8b449e28305ee9034980845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337975026
+status: 3
+tags: []
+user_id: micahcearns

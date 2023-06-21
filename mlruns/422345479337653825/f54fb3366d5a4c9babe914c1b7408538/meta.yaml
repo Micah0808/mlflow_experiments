@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/f54fb3366d5a4c9babe914c1b7408538/artifacts
+end_time: 1687337962308
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: f54fb3366d5a4c9babe914c1b7408538
+run_name: gregarious-trout-590
+run_uuid: f54fb3366d5a4c9babe914c1b7408538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337957999
+status: 3
+tags: []
+user_id: micahcearns

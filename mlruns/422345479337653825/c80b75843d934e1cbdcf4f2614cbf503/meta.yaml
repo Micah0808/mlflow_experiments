@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/c80b75843d934e1cbdcf4f2614cbf503/artifacts
+end_time: 1687337949263
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: c80b75843d934e1cbdcf4f2614cbf503
+run_name: enthused-gnat-166
+run_uuid: c80b75843d934e1cbdcf4f2614cbf503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337945391
+status: 3
+tags: []
+user_id: micahcearns

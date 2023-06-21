@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/1b7221bf8c804f6d93013b3083b0ad68/artifacts
+end_time: 1687249221063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b7221bf8c804f6d93013b3083b0ad68
+run_name: clumsy-sloth-976
+run_uuid: 1b7221bf8c804f6d93013b3083b0ad68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687249217935
+status: 3
+tags: []
+user_id: micahcearns

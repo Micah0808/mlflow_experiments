@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/b908b76575c5422b8bd165570b779bdc/artifacts
+end_time: 1687251095592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b908b76575c5422b8bd165570b779bdc
+run_name: brawny-boar-800
+run_uuid: b908b76575c5422b8bd165570b779bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687251092534
+status: 3
+tags: []
+user_id: micahcearns

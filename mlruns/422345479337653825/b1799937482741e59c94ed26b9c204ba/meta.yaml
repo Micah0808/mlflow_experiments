@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/b1799937482741e59c94ed26b9c204ba/artifacts
+end_time: 1687337024826
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: b1799937482741e59c94ed26b9c204ba
+run_name: glamorous-hog-339
+run_uuid: b1799937482741e59c94ed26b9c204ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337019869
+status: 3
+tags: []
+user_id: micahcearns

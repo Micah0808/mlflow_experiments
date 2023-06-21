@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/175da83feaef49c0a40abeabd11f5dcb/artifacts
+end_time: 1687336210121
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 175da83feaef49c0a40abeabd11f5dcb
+run_name: sneaky-shoat-101
+run_uuid: 175da83feaef49c0a40abeabd11f5dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336205906
+status: 3
+tags: []
+user_id: micahcearns

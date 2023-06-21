@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/9ee64b54039e4fafae71edc6aa711e1d/artifacts
+end_time: 1687337124287
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 9ee64b54039e4fafae71edc6aa711e1d
+run_name: dazzling-bat-871
+run_uuid: 9ee64b54039e4fafae71edc6aa711e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337120016
+status: 3
+tags: []
+user_id: micahcearns

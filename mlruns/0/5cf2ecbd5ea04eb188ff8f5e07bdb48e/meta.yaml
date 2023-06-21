@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/5cf2ecbd5ea04eb188ff8f5e07bdb48e/artifacts
+end_time: 1687246236271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cf2ecbd5ea04eb188ff8f5e07bdb48e
+run_name: legendary-skink-996
+run_uuid: 5cf2ecbd5ea04eb188ff8f5e07bdb48e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687246232721
+status: 3
+tags: []
+user_id: micahcearns

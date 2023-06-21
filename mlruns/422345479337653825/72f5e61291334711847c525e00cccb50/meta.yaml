@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/72f5e61291334711847c525e00cccb50/artifacts
+end_time: 1687338008382
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 72f5e61291334711847c525e00cccb50
+run_name: wise-ram-898
+run_uuid: 72f5e61291334711847c525e00cccb50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338004527
+status: 3
+tags: []
+user_id: micahcearns

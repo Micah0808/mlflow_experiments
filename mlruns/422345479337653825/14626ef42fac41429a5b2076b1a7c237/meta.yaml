@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/14626ef42fac41429a5b2076b1a7c237/artifacts
+end_time: 1687336003753
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 14626ef42fac41429a5b2076b1a7c237
+run_name: useful-grub-351
+run_uuid: 14626ef42fac41429a5b2076b1a7c237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687335998981
+status: 3
+tags: []
+user_id: micahcearns

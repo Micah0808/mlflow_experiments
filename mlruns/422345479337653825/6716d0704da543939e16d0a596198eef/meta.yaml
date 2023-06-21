@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/6716d0704da543939e16d0a596198eef/artifacts
+end_time: 1687336013965
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 6716d0704da543939e16d0a596198eef
+run_name: treasured-wasp-981
+run_uuid: 6716d0704da543939e16d0a596198eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336009149
+status: 3
+tags: []
+user_id: micahcearns

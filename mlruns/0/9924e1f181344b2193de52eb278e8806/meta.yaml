@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/9924e1f181344b2193de52eb278e8806/artifacts
+end_time: 1687251125968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9924e1f181344b2193de52eb278e8806
+run_name: rumbling-yak-224
+run_uuid: 9924e1f181344b2193de52eb278e8806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687251123023
+status: 3
+tags: []
+user_id: micahcearns

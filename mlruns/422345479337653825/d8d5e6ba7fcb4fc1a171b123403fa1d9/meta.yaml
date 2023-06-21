@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/d8d5e6ba7fcb4fc1a171b123403fa1d9/artifacts
+end_time: 1687337073760
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: d8d5e6ba7fcb4fc1a171b123403fa1d9
+run_name: popular-zebra-228
+run_uuid: d8d5e6ba7fcb4fc1a171b123403fa1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337069637
+status: 3
+tags: []
+user_id: micahcearns

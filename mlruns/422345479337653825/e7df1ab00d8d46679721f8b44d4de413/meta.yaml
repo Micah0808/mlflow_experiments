@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/e7df1ab00d8d46679721f8b44d4de413/artifacts
+end_time: 1687337164729
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: e7df1ab00d8d46679721f8b44d4de413
+run_name: omniscient-cod-388
+run_uuid: e7df1ab00d8d46679721f8b44d4de413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337160855
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/19564274538547acb461be64c2e1fe84/artifacts
+end_time: 1687337048501
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 19564274538547acb461be64c2e1fe84
+run_name: bemused-fly-231
+run_uuid: 19564274538547acb461be64c2e1fe84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337044594
+status: 3
+tags: []
+user_id: micahcearns

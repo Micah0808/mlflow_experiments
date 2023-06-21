@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/99970220adb845cbb7cb503c24ea5582/artifacts
+end_time: 1687337116030
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 99970220adb845cbb7cb503c24ea5582
+run_name: whimsical-bee-54
+run_uuid: 99970220adb845cbb7cb503c24ea5582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337111971
+status: 3
+tags: []
+user_id: micahcearns

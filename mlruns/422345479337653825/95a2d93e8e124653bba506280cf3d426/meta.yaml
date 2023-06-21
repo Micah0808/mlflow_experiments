@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/95a2d93e8e124653bba506280cf3d426/artifacts
+end_time: 1687337970605
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 95a2d93e8e124653bba506280cf3d426
+run_name: redolent-smelt-690
+run_uuid: 95a2d93e8e124653bba506280cf3d426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337966503
+status: 3
+tags: []
+user_id: micahcearns

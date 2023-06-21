@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/65a19bd4da3f455480b6b3ee94c79868/artifacts
+end_time: 1687336041345
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 65a19bd4da3f455480b6b3ee94c79868
+run_name: bold-fly-524
+run_uuid: 65a19bd4da3f455480b6b3ee94c79868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336036524
+status: 3
+tags: []
+user_id: micahcearns

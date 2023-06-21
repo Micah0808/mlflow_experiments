@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/531c0c73d4fc41c7a889843f76a01ae1/artifacts
+end_time: 1687336047470
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 531c0c73d4fc41c7a889843f76a01ae1
+run_name: gaudy-stag-135
+run_uuid: 531c0c73d4fc41c7a889843f76a01ae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336041366
+status: 3
+tags: []
+user_id: micahcearns

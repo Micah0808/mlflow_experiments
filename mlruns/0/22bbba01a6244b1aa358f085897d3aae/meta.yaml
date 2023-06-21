@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/0/22bbba01a6244b1aa358f085897d3aae/artifacts
+end_time: 1687249221158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22bbba01a6244b1aa358f085897d3aae
+run_name: masked-seal-244
+run_uuid: 22bbba01a6244b1aa358f085897d3aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687249221134
+status: 3
+tags: []
+user_id: micahcearns

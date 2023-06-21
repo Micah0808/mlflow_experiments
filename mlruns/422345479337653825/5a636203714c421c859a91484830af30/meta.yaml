@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/5a636203714c421c859a91484830af30/artifacts
+end_time: 1687335994394
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 5a636203714c421c859a91484830af30
+run_name: bouncy-penguin-240
+run_uuid: 5a636203714c421c859a91484830af30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687335989294
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/b509a91e1cd1445192864136bb6d3e90/artifacts
+end_time: 1687337010658
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: b509a91e1cd1445192864136bb6d3e90
+run_name: learned-fish-604
+run_uuid: b509a91e1cd1445192864136bb6d3e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337006572
+status: 3
+tags: []
+user_id: micahcearns

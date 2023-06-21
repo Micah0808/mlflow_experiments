@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/1c636aba55914499a2aff86da1740239/artifacts
+end_time: 1687338004502
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 1c636aba55914499a2aff86da1740239
+run_name: fun-moose-248
+run_uuid: 1c636aba55914499a2aff86da1740239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338000570
+status: 3
+tags: []
+user_id: micahcearns

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/ab10c8e5112246cb97baa9c859e07d6b/artifacts
+end_time: 1687337136655
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: ab10c8e5112246cb97baa9c859e07d6b
+run_name: debonair-bug-541
+run_uuid: ab10c8e5112246cb97baa9c859e07d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337132530
+status: 3
+tags: []
+user_id: micahcearns

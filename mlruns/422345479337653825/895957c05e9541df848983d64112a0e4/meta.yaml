@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/895957c05e9541df848983d64112a0e4/artifacts
+end_time: 1687337172225
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 895957c05e9541df848983d64112a0e4
+run_name: xgboost_models
+run_uuid: 895957c05e9541df848983d64112a0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336962674
+status: 3
+tags: []
+user_id: micahcearns

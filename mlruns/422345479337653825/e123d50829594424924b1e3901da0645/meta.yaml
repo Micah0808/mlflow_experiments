@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/e123d50829594424924b1e3901da0645/artifacts
+end_time: 1687338047751
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: e123d50829594424924b1e3901da0645
+run_name: powerful-goat-311
+run_uuid: e123d50829594424924b1e3901da0645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338043873
+status: 3
+tags: []
+user_id: micahcearns

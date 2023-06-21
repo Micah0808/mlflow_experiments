@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/b3cfc8e5555446dea03ffe0f08b36661/artifacts
+end_time: 1687337975002
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: b3cfc8e5555446dea03ffe0f08b36661
+run_name: defiant-crab-757
+run_uuid: b3cfc8e5555446dea03ffe0f08b36661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337970629
+status: 3
+tags: []
+user_id: micahcearns

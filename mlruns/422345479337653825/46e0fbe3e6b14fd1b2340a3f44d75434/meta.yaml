@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/46e0fbe3e6b14fd1b2340a3f44d75434/artifacts
+end_time: 1687336036502
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 46e0fbe3e6b14fd1b2340a3f44d75434
+run_name: legendary-cat-206
+run_uuid: 46e0fbe3e6b14fd1b2340a3f44d75434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336032062
+status: 3
+tags: []
+user_id: micahcearns

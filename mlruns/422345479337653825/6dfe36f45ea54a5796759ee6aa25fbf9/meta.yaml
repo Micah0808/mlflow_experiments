@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/6dfe36f45ea54a5796759ee6aa25fbf9/artifacts
+end_time: 1687337987922
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 6dfe36f45ea54a5796759ee6aa25fbf9
+run_name: adaptable-hen-903
+run_uuid: 6dfe36f45ea54a5796759ee6aa25fbf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687337983853
+status: 3
+tags: []
+user_id: micahcearns

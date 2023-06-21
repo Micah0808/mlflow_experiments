@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/87af246f6b95470e9af8bf5b6b770027/artifacts
+end_time: 1687336988438
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 87af246f6b95470e9af8bf5b6b770027
+run_name: aged-wasp-93
+run_uuid: 87af246f6b95470e9af8bf5b6b770027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336984313
+status: 3
+tags: []
+user_id: micahcearns

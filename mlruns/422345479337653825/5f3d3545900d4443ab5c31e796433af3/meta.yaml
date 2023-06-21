@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/5f3d3545900d4443ab5c31e796433af3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 5f3d3545900d4443ab5c31e796433af3
+run_name: fearless-gnu-32
+run_uuid: 5f3d3545900d4443ab5c31e796433af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687338047786
+status: 1
+tags: []
+user_id: micahcearns

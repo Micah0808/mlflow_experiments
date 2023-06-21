@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns/422345479337653825/38eda6ed9fdb466da8155cfbff49edc2/artifacts
+end_time: 1687336093177
+entry_point_name: ''
+experiment_id: '422345479337653825'
+lifecycle_stage: active
+run_id: 38eda6ed9fdb466da8155cfbff49edc2
+run_name: unequaled-horse-798
+run_uuid: 38eda6ed9fdb466da8155cfbff49edc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336088742
+status: 3
+tags: []
+user_id: micahcearns
