@@ -14,6 +14,7 @@ import xgboost as xgb
 import mlflow
 import mlflow.xgboost
 from mlflow.models.signature import infer_signature
+from mlflow import MlflowClient
 from hyperopt import (
     fmin,
     hp,
@@ -203,6 +204,7 @@ runs_df = mlflow.search_runs(experiment_ids=EXPERIMENT_ID, order_by=['metrics.va
 best_run = runs_df.iloc[0]
 best_run_id = best_run['run_id']
 best_artifact_uri = best_run['artifact_uri']
+
 # Loading model from best run
 best_model = mlflow.xgboost.load_model('runs:/' + best_run_id + '/model')
 
@@ -221,5 +223,45 @@ print(f'Testing Precision: {test_precision}')
 print(f'Testing Recall: {test_recall}')
 print(f'Testing F1: {test_f1}')
 print(f'Testing AUCROC: {test_aucroc}')
+
+# =================================================================================================
+# Registering the model into the Model Registry
+# =================================================================================================
+# Registering the model
+model_details = mlflow.register_model(f'runs:/{best_run_id}/artifacts/model',
+                                      'BreastCancerClassification-XGBHP')
+
+# And updating its information
+client = MlflowClient()
+client.update_registered_model(
+  name=model_details.name,
+  description="""This model classifies breast cancer as malignant or benign given certain numerical features of cell nuclei such as 
+  a) radius (mean of distances from center to points on the perimeter)
+  b) texture (standard deviation of gray-scale values)
+  c) perimeter
+  d) area
+  e) smoothness (local variation in radius lengths)
+  f) compactness (perimeter^2 / area - 1.0)
+  g) concavity (severity of concave portions of the contour)
+  h) concave points (number of concave portions of the contour)
+  i) symmetry
+  j) fractal dimension ("coastline approximation" - 1)."""
+)
+
+client.update_model_version(
+  name=model_details.name,
+  version=model_details.version,
+  description='This model version is the first XGBoost model trained with HyperOpt for bayesian hyperparameter tuning.'
+)
+
+# =================================================================================================
+# Staging the model for production
+# =================================================================================================
+client.transition_model_version_stage(
+  name=model_details.name,
+  version=model_details.version,
+  stage='Production'
+)
+
 
 
