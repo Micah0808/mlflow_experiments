@@ -264,4 +264,28 @@ client.transition_model_version_stage(
 )
 
 
+# =================================================================================================
+# Serving locally to test predictions
+# =================================================================================================
+# Run this if problems with pyenv
+# curl https://pyenv.run | bash
+# python -m  pip install virtualenv
+# PATH="$HOME/.pyenv/bin:$PATH"
+
+# # To serve
+# mlflow models serve - m "/Users/micahcearns/Desktop/IT_Projects/mlflow_project/mlruns" \
+#                         "/422345479337653825/0b408f18e5b84484917fc8f05ef396cc/artifacts/model" - \
+#                         -port 5002
+
+# To send a request
+# curl -d '{"dataframe_split": {
+# "columns": ["mean radius", "mean texture", "mean perimeter", "mean area", "mean smoothness", "mean compactness", "mean concavity", "mean concave points", "mean symmetry", "mean fractal dimension", "radius error", "texture error", "perimeter error", "area error", "smoothness error", "compactness error", "concavity error", "concave points error", "symmetry error", "fractal dimension error", "worst radius", "worst texture", "worst perimeter", "worst area", "worst smoothness", "worst compactness", "worst concavity", "worst concave points", "worst symmetry", "worst fractal dimension"],
+# "data": [[17.99, 10.38, 122.8, 1001.0, 0.1184, 0.2776, 0.3001, 0.1471, 0.2419, 0.07871, 1.095, 0.9053, 8.589, 153.4, 0.006399, 0.04904, 0.05373, 0.01587, 0.03003, 0.006193, 25.38, 17.33, 184.6, 2019.0, 0.1622, 0.6656, 0.7119, 0.2654, 0.4601, 0.1189]]}}' \
+# -H 'Content-Type: application/json' -X POST localhost:5002/invocations
+
+# =================================================================================================
+# Creating a Docker image
+# =================================================================================================
+
+
 
